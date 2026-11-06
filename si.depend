@@ -1,0 +1,277 @@
+# depslib dependency file v1.0
+1793107578 source:c:\users\alumno\downloads\si\funciones.pp.cpp
+	<iostream>
+	"funciones.h"
+	<cstdlib>
+	<windows.h>
+	"rlutil.h"
+
+1793107483 source:c:\users\alumno\downloads\si\main.cpp
+	<iostream>
+	"funciones.h"
+	<cstdlib>
+	<windows.h>
+	"rlutil.h"
+
+1793107359 c:\users\alumno\downloads\si\funciones.h
+
+1792497210 c:\users\alumno\downloads\si\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1793128786 source:c:\users\macac\downloads\juego2\si\funciones.pp.cpp
+	<iostream>
+	"funciones.h"
+	<cstdlib>
+	<windows.h>
+	"rlutil.h"
+
+1793122464 c:\users\macac\downloads\juego2\si\funciones.h
+
+1793120156 c:\users\macac\downloads\juego2\si\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1793122464 source:c:\users\macac\downloads\juego2\si\main.cpp
+	<iostream>
+	"funciones.h"
+	<cstdlib>
+	<windows.h>
+	"rlutil.h"
+
+1793148427 source:c:\users\usuario\downloads\supervivenciazombie\supervivenciazombie\si\funciones.pp.cpp
+	<iostream>
+	"funciones.h"
+	<cstdlib>
+	<windows.h>
+	"rlutil.h"
+	"highscore.h"
+
+1793148427 c:\users\usuario\downloads\supervivenciazombie\supervivenciazombie\si\funciones.h
+	<string>
+
+1793120156 c:\users\usuario\downloads\supervivenciazombie\supervivenciazombie\si\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1793146520 source:c:\users\usuario\downloads\supervivenciazombie\supervivenciazombie\si\main.cpp
+	<iostream>
+	"funciones.h"
+	<cstdlib>
+	<windows.h>
+	"rlutil.h"
+	"juego.h"
+	"highscore.h"
+
+1793154378 source:c:\users\usuario\downloads\supervivenciazombie\supervivenciazombie\si\juego.cpp
+	<iostream>
+	"funciones.h"
+	<cstdlib>
+	<windows.h>
+	"rlutil.h"
+	"juego.h"
+	"highscore.h"
+
+1793150588 c:\users\usuario\downloads\supervivenciazombie\supervivenciazombie\si\juego.h
+
+1793145986 source:c:\users\usuario\downloads\supervivenciazombie\supervivenciazombie\si\highscore.cpp
+	<iostream>
+	"funciones.h"
+	<cstdlib>
+	<windows.h>
+	"rlutil.h"
+	"juego.h"
+	"highscore.h"
+
+1793145601 c:\users\usuario\downloads\supervivenciazombie\supervivenciazombie\si\highscore.h
+	<string>
+
+1793712055 source:c:\users\alumno\downloads\juego-utn-main\juego-utn-main\funciones.pp.cpp
+	<iostream>
+	"funciones.h"
+	<cstdlib>
+	<windows.h>
+	"rlutil.h"
+	"highscore.h"
+
+1793711745 c:\users\alumno\downloads\juego-utn-main\juego-utn-main\funciones.h
+	<string>
+
+1793707302 c:\users\alumno\downloads\juego-utn-main\juego-utn-main\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1793707302 c:\users\alumno\downloads\juego-utn-main\juego-utn-main\highscore.h
+	<string>
+
+1793707302 source:c:\users\alumno\downloads\juego-utn-main\juego-utn-main\highscore.cpp
+	<iostream>
+	"funciones.h"
+	<cstdlib>
+	<windows.h>
+	"rlutil.h"
+	"juego.h"
+	"highscore.h"
+
+1793707302 c:\users\alumno\downloads\juego-utn-main\juego-utn-main\juego.h
+
+1793709853 source:c:\users\alumno\downloads\juego-utn-main\juego-utn-main\juego.cpp
+	<iostream>
+	"funciones.h"
+	<cstdlib>
+	<windows.h>
+	"rlutil.h"
+	"juego.h"
+	"highscore.h"
+
+1793712031 source:c:\users\alumno\downloads\juego-utn-main\juego-utn-main\main.cpp
+	<iostream>
+	"funciones.h"
+	<cstdlib>
+	<windows.h>
+	"rlutil.h"
+	"juego.h"
+	"highscore.h"
+
+1793755320 source:c:\users\usuario\downloads\juego-utn-main__2_\juego-utn-main\funciones.pp.cpp
+	<iostream>
+	"funciones.h"
+	<cstdlib>
+	<windows.h>
+	"rlutil.h"
+	"highscore.h"
+
+1793755457 c:\users\usuario\downloads\juego-utn-main__2_\juego-utn-main\funciones.h
+	<string>
+
+1793745121 c:\users\usuario\downloads\juego-utn-main__2_\juego-utn-main\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1793745121 c:\users\usuario\downloads\juego-utn-main__2_\juego-utn-main\highscore.h
+	<string>
+
+1793755663 source:c:\users\usuario\downloads\juego-utn-main__2_\juego-utn-main\highscore.cpp
+	<iostream>
+	"visual.h"
+	<cstdlib>
+	<windows.h>
+	"rlutil.h"
+	"juego.h"
+	"highscore.h"
+
+1793759671 c:\users\usuario\downloads\juego-utn-main__2_\juego-utn-main\juego.h
+
+1793760968 source:c:\users\usuario\downloads\juego-utn-main__2_\juego-utn-main\juego.cpp
+	<iostream>
+	"visual.h"
+	<cstdlib>
+	<windows.h>
+	"rlutil.h"
+	"juego.h"
+	"highscore.h"
+	"eventos.h"
+	"logros.h"
+
+1793759401 source:c:\users\usuario\downloads\juego-utn-main__2_\juego-utn-main\main.cpp
+	<iostream>
+	"visual.h"
+	<cstdlib>
+	<windows.h>
+	"rlutil.h"
+	"juego.h"
+	"highscore.h"
+	"logros.h"
+
+1793752036 c:\users\usuario\downloads\juego-utn-main__2_\juego-utn-main\eventos.h
+	<string>
+
+1793760834 source:c:\users\usuario\downloads\juego-utn-main__2_\juego-utn-main\eventos.cpp
+	<iostream>
+	"visual.h"
+	<cstdlib>
+	<windows.h>
+	"rlutil.h"
+	"juego.h"
+	"highscore.h"
+	"eventos.h"
+
+1793764558 c:\users\usuario\downloads\juego-utn-main__2_\juego-utn-main\visual.h
+	<string>
+
+1793764766 source:c:\users\usuario\downloads\juego-utn-main__2_\juego-utn-main\visual.cpp
+	<iostream>
+	<string>
+	"rlutil.h"
+	"visual.h"
+
+1793756456 source:c:\users\usuario\downloads\juego-utn-main__2_\juego-utn-main\logros.cpp
+	<iostream>
+	"rlutil.h"
+	"visual.h"
+	"logros.h"
+
+1793756500 c:\users\usuario\downloads\juego-utn-main__2_\juego-utn-main\logros.h
+
+1793764558 source:c:\users\usuario\downloads\juego-utn-main__2_\juego-utn-main\visual_menu.cpp
+	<iostream>
+	<string>
+	"rlutil.h"
+	"visual.h"
+
+1793764766 source:c:\users\usuario\downloads\juego-utn-main__2_\juego-utn-main\visual_animaciones.cpp
+	<iostream>
+	<string>
+	"rlutil.h"
+	"visual.h"
+
