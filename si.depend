@@ -1,0 +1,91 @@
+# depslib dependency file v1.0
+1794193953 source:c:\users\usuario\downloads\juego-utn-v1.0-sin-guardado\juego-utn-main\eventos.cpp
+	<iostream>
+	"visual.h"
+	<cstdlib>
+	<windows.h>
+	"rlutil.h"
+	"juego.h"
+	"highscore.h"
+	"eventos.h"
+
+1794193953 c:\users\usuario\downloads\juego-utn-v1.0-sin-guardado\juego-utn-main\visual.h
+	<string>
+
+1794193953 c:\users\usuario\downloads\juego-utn-v1.0-sin-guardado\juego-utn-main\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1794193953 c:\users\usuario\downloads\juego-utn-v1.0-sin-guardado\juego-utn-main\juego.h
+
+1794193953 c:\users\usuario\downloads\juego-utn-v1.0-sin-guardado\juego-utn-main\highscore.h
+	<string>
+
+1794193953 c:\users\usuario\downloads\juego-utn-v1.0-sin-guardado\juego-utn-main\eventos.h
+
+1794193953 source:c:\users\usuario\downloads\juego-utn-v1.0-sin-guardado\juego-utn-main\highscore.cpp
+	<iostream>
+	"visual.h"
+	<cstdlib>
+	<windows.h>
+	"rlutil.h"
+	"juego.h"
+	"highscore.h"
+
+1794193953 source:c:\users\usuario\downloads\juego-utn-v1.0-sin-guardado\juego-utn-main\juego.cpp
+	<iostream>
+	"visual.h"
+	<cstdlib>
+	"rlutil.h"
+	"juego.h"
+	"highscore.h"
+	"eventos.h"
+	"logros.h"
+
+1794193953 c:\users\usuario\downloads\juego-utn-v1.0-sin-guardado\juego-utn-main\logros.h
+
+1794193953 source:c:\users\usuario\downloads\juego-utn-v1.0-sin-guardado\juego-utn-main\logros.cpp
+	<iostream>
+	"rlutil.h"
+	"visual.h"
+	"logros.h"
+
+1794193953 source:c:\users\usuario\downloads\juego-utn-v1.0-sin-guardado\juego-utn-main\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	"visual.h"
+	"rlutil.h"
+	"juego.h"
+	"highscore.h"
+	"logros.h"
+
+1794193953 source:c:\users\usuario\downloads\juego-utn-v1.0-sin-guardado\juego-utn-main\visual.cpp
+	<iostream>
+	<string>
+	"rlutil.h"
+	"visual.h"
+
+1794193953 source:c:\users\usuario\downloads\juego-utn-v1.0-sin-guardado\juego-utn-main\visual_animaciones.cpp
+	<iostream>
+	<string>
+	"rlutil.h"
+	"visual.h"
+
+1794193953 source:c:\users\usuario\downloads\juego-utn-v1.0-sin-guardado\juego-utn-main\visual_menu.cpp
+	<iostream>
+	<string>
+	"rlutil.h"
+	"visual.h"
+
